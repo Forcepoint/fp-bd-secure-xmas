@@ -1,0 +1,4 @@
+twilio==6.31.0
+ldap3==2.2.4
+colorama==0.4.3
+pyodbc==4.0.27
